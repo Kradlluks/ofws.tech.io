@@ -1,0 +1,30 @@
+/* Put your css in here */
+
+
+  body {
+  font-family: Arial;
+  color: #fff;
+  padding: 50px;
+  width: 300px;
+  margin: 0 auto;
+  background-color: #374954;
+  margin-left: 20px;
+}
+
+
+table, div, input ,p ,ul  {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid white;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+   background-color: #E0E0E0;
+  color:black;
+}
